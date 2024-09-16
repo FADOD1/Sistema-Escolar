@@ -1,0 +1,11 @@
+Relatório de Notas e Médias
+=============================
+Aluno: FCO ALAN DE OLIVEIRA DIAS (Matrícula: 20241094040036, Turma: Tads 2024)
+Notas:
+Disciplina: 2200, Nota: 80
+Disciplina: 2200, Nota: 90
+Disciplina: 2200, Nota: 70
+Disciplina: 2200, Nota: 60
+Disciplina: 3030, Nota: 50
+Média geral: 70.00
+-----------------------------
